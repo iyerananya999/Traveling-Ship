@@ -1,0 +1,101 @@
+﻿SOFTWARE: software de Brother
+
+IMPORTANTE: LEA ATENTAMENTE ANTES DE INSTALAR EL SOFTWARE:
+
+Este Contrato de licencia del usuario final ("CLUF") es un acuerdo legal entre usted ("usted" o "Usuario final") y Brother Industries, Ltd. ("Brother"), que rige su uso del software de Brother mencionado con anterioridad y todos y cada uno de los manuales del usuario y documentos electrónicos asociados ("SOFTWARE"). Al instalar, reproducir o usar el SOFTWARE, acepta quedar vinculado por los términos de este CLUF. Una vez que haya comenzado el proceso de instalación, no puede cancelar esta transacción. Si no acepta los términos de este CLUF, Brother no puede darle una licencia del SOFTWARE y, por lo tanto, debe detener el proceso de instalación de inmediato. Imprima una copia de este CLUF para poder consultarlo posteriormente.
+
+Términos y condiciones.
+---------------------
+1. Concesión de licencia.
+--------------------
+
+A condición del cumplimiento de los términos y condiciones descritos en este CLUF, Brother le otorga una licencia no transferible y no exclusiva para:
+
+1) instalar una copia del SOFTWARE en un único ordenador y usar el SOFTWARE únicamente con fines personales (si es un consumidor) o fines comerciales internos (si es una empresa). Si el SOFTWARE fue enviado junto con productos de hardware de Brother o constituye una nueva versión del software que le fue enviado con anterioridad junto con productos de hardware de Brother, puede instalar una copia del SOFTWARE en varios hardware en una única ubicación para el único propósito de utilizar el SOFTWARE con los fines anteriormente mencionados con dichos productos de hardware de Brother, excepto en lo indicado en sentido contrario por Brother u otros acuerdos de licencia de terceros;
+
+2) realizar una copia del SOFTWARE con propósitos de copia de seguridad siempre que dicha copia incluya toda la información de derechos de autor y toda otra información incluida en el SOFTWARE, de manera idéntica a los originales. 
+ 
+2. Limitación de uso.
+---------------------
+Excepto en lo expresamente establecido en este CLUF o en lo permitido por las leyes locales, usted se compromete a: 
+
+1) no copiar el SOFTWARE excepto donde su copia sea inherente al uso normal del SOFTWARE, cuando se quiera realizar una copia de seguridad o por seguridad de funcionamiento;
+2) no alquilar, ceder, sublicenciar, prestar, traducir, combinar, adaptar, variar ni modificar el SOFTWARE;
+3) no alterar ni modificar en todo o en parte el SOFTWARE ni permitir que todo o parte del SOFTWARE se combine con o se incorpore a ningún otro programa;
+4) no desmontar, descompilar, realizar ingeniería inversa ni crear trabajos derivados de todo o parte del SOFTWARE ni intentar hacerlo;
+5) mantener seguras todas las copias del SOFTWARE y mantener registros precisos y actualizados del número y de las ubicaciones de todas las copias del SOFTWARE;
+6) si es una empresa, supervisar y controlar el uso del SOFTWARE y asegurar que el SOFTWARE se use por sus empleados y representantes de acuerdo con los términos de este CLUF;
+7) si es un consumidor, no usar el SOFTWARE para ningún propósito comercial, de negocios o para su reventa;
+8) incluir nuestra información de derechos de autor en todas las copias parciales o totales del SOFTWARE;
+9) no proporcionar ni hacer accesible el SOFTWARE de ninguna forma, total o parcialmente (incluido, entre otros, listados de programas, listados de programas fuente y objeto, código fuente y código objeto) a ninguna persona (excepto la copia entera suministrada a sus empleados si es una empresa, o si realiza una transferencia de conformidad con la Sección 4) sin nuestro consentimiento previo por escrito;
+10) no usar el SOFTWARE mediante una red de comunicaciones ni por acceso remoto.
+
+3. Propiedad.
+-------------
+Todos los derechos, títulos e intereses, incluidos todos los derechos de propiedad intelectual, del SOFTWARE (incluidos, entre otros, los de los programas, imágenes, plantillas y fuentes de texto) y los manuales de usuario y otros materiales asociados, así como todas las copias realizadas, son propiedad de Brother o de sus proveedores. El SOFTWARE está protegido por los derechos de propiedad intelectual y los tratados internacionales aplicables. Todos los derechos, títulos e intereses incluidos en los derechos de autor pertenecientes al SOFTWARE se otorgan bajo licencia, no se venden.
+
+4. Transferencia.
+------------
+Usted puede transferir permanentemente el SOFTWARE a otra persona, siempre que entregue a dicha persona el hardware de Brother en el que está instalado el SOFTWARE, junto con todo el material incluido en el envío (incluidos todos los componentes, soportes y materiales impresos como los manuales de usuario). Si el SOFTWARE es una actualización de un software anterior, también debe hacer entrega de esta versión anterior. Con la transferencia, pierde todo derecho a conservar cualquier copia del SOFTWARE y debe borrar toda copia del SOFTWARE realizada.
+
+5. Garantía.
+------------
+5.1 Brother garantiza que el SOFTWARE funcionará correctamente de acuerdo con las especificaciones por un periodo de 90 días a partir de la fecha de recepción del SOFTWARE. Si usted informa a Brother de que el SOFTWARE no funciona de acuerdo a las especificaciones y Brother lo acepta, éste podrá a su exclusivo criterio reparar o sustituir el SOFTWARE siempre que usted ponga a disposición de Brother toda la información necesaria para poder solucionar el defecto o fallo, incluida la información necesaria para poder reproducir el defecto o fallo. Usted acepta que el Software no se ha fabricado para ajustarse a sus necesidades específicas y que es su responsabilidad asegurar que las características y funciones del SOFTWARE satisfacen sus requisitos.
+
+5.2 La reparación o sustitución del SOFTWARE por parte de Brother tal como se establece en la Sección 5.1 de este CLUF es responsabilidad exclusiva de Brother y es la única solución propuesta.
+
+5.3 La garantía especificada no es de aplicación si (1) el defecto o fallo en el SOFTWARE es consecuencia de un intento de arreglo del SOFTWARE por su parte o (2) si el defecto o fallo en el SOFTWARE es consecuencia de usar el SOFTWARE de forma contraria a los términos de este CLUF.
+
+6. Limitación de responsabilidad.
+---------------------------
+BROTHER NO ACEPTA NINGUNA RESPONSABILIDAD LEGAL DIFERENTE DE LAS ESTABLECIDAS EN EL ARTÍCULO 5 DE ESTE CLUF, NI DE FORMA EXPRESA NI IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIALIDAD Y ADECUACIÓN DEL SOFTWARE PARA UN FIN PARTICULAR. EN NINGÚN CASO BROTHER SERÁ RESPONSABLE POR LA PÉRDIDA DE BENEFICIOS, OPORTUNIDADES COMERCIALES, USO DE DATOS O LA INTERRUPCIÓN DE ACTIVIDADES, NI POR NINGÚN DAÑO INDIRECTO, ESPECIAL, INCIDENTAL, PENAL, EJEMPLAR O CONSECUENTE DE NINGÚN TIPO, BASADO EN CONTRATO, AGRAVIO U OTRO, INCLUSO SI BROTHER HUBIERA TENIDO CONOCIMIENTO DE LA POSIBILIDAD DE TALES DAÑOS. NADA DE ESTA LICENCIA LIMITA O EXCLUYE NUESTRA RESPONSABILIDAD EN CASO DE MUERTE, DAÑOS PERSONALES, FRAUDE, DECLARACIÓN FALSA O CUALQUIER OTRA RESPONSABILIDAD QUE NO PUEDA SER EXCLUIDA POR LA NORMATIVA APLICABLE.
+
+7. Finalización
+--------
+Brother puede finalizar este CLUF sin previo aviso si usted lo incumple, sin perjuicio de otros derechos o recursos que pudiera tener. En caso de que Brother finalice este CLUF por incumplimiento, usted debe destruir el SOFTWARE y toda copia realizada de inmediato.
+
+8. Marcas comerciales.
+--------------
+Este CLUF no le otorga en ningún caso ninguna licencia de uso de ninguna marca comercial o marca de servicio propiedad de Brother o de sus proveedores.
+
+9. Normas de exportación.
+----------------------
+No puede realizar ninguna exportación ni reexportación del SOFTWARE ni de ninguna copia o adaptación que infrinja la legislación o las regulaciones aplicables.
+
+10. Exoneración de responsabilidades
+-------------------- 
+Nuestra falta de insistencia en su obligación de cumplir con las responsabilidades incluidas en este CLUF o nuestra pasividad o retraso en el ejercicio de nuestros derechos respecto a usted no implica la renuncia a nuestros derechos ni la exoneración del cumplimiento de sus obligaciones. Si decidimos exonerarle de alguna responsabilidad, lo haremos por escrito y en ningún caso implicaría la exoneración automática de otras obligaciones.
+
+11. Divisibilidad
+--------------------
+Cada una de las cláusulas de este CLUF es de aplicación independiente. Si un juzgado u otra autoridad competente estima que alguna de estas cláusulas es ilegal o no aplicable, el resto de cláusulas sigue en vigor y efecto.
+
+12. Leyes aplicables.
+-------------------
+Este CLUF se rige por las leyes de Japón. Si cualquiera de las disposiciones de este CLUF se declarara nula, dichas disposiciones serán separables e independientes de las demás disposiciones de este CLUF, y la validez de las demás disposiciones y de todo el CLUF no se verá afectada.
+
+13. Recopilación de información del dispositivo.
+-------------------
+El SOFTWARE puede permitir a Brother recabar información de nuestros productos y del dispositivo conectado a los productos ("Dispositivo"), incluyendo, sin limitación, el modelo de impresora, el número de serie y la ubicación del dispositivo ("Información del dispositivo"). Además, puede enviar al servidor de Brother información sobre el uso que hace de nuestros productos (número de páginas impresas, consumos de tinta, etc.), así como información sobre el funcionamiento de los productos (como informes de error). Dicha información (excepto el número de serie) no le identifica como persona ni se asociará con ninguno de sus datos personales. Brother utilizará tal información únicamente con finalidades de análisis estadísticas y mejora de nuestro servicio.
+
+La Información del dispositivo incluye el número de serie de nuestro producto. Si registra sus datos a través del sitio web de registro de productos de nuestra empresa de ventas, esta tendrá información que puede identificarle personalmente junto al número de serie. Sin embargo, nosotros no le identificaremos porque no se nos proporcionará tal información. El número de serie se guardará en estricta conformidad con la Política de privacidad para la recogida de información del dispositivo de Brother, disponible en el sitio web de Brother <http://www.brother.com/privacy/device/index.htm>.
+
+Puede cambiar la configuración del instalador o este SOFTWARE para rechazar la recopilación de la información del dispositivo que se explica en este artículo.
+
+Términos y condiciones adicionales
+
+Para los productos de hardware de Brother que incluyen funciones que convierten datos digitalizados en archivos de Microsoft Office, usted también acuerda lo siguiente:
+
+1. Necesita acceso a Internet para convertir los datos digitalizados en un archivo Microsoft Office ("el Servicio"). 
+
+2. Cuando convierte datos, los datos digitalizados se almacenan temporalmente en servidores de terceros proveedores con los que Brother tiene un contrato. Estos datos se usarán únicamente para el propósito de (i) ofrecer el Servicio y (ii) analizar el rendimiento y la funcionalidad del Servicio (datos anónimos únicamente). 
+3. El Servicio puede suspenderse o interrumpirse sin previo aviso debido a cambios en la situación de los proveedores del servicio, o por otras razones.
+
+LEA LA SIGUIENTE INFORMACIÓN RELATIVA A FIREWALL Y ANTIVIRUS.
+
+A fin de que todas las funcionalidades de red de los productos de Brother funcionen con normalidad, es necesario cambiar algunas de las configuraciones del Firewall de Windows para poder permitir la conexión de red y continuar con la instalación.
+
+PARA LOS USUARIOS DE UN SOFTWARE ANTIVIRUS:
+
+Si utiliza software antivirus, puede aparecer una ventana de advertencia durante la instalación. Seleccione "Permitir" para continuar.
+
